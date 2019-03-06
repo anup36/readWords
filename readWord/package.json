@@ -1,0 +1,17 @@
+{
+  "name": "readwords",
+  "version": "1.0.0",
+  "description": "",
+  "main": "readWords.js",
+  "dependencies": {
+    "async": "^2.6.2",
+    "request": "^2.88.0",
+    "underscore": "^1.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
