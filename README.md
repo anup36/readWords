@@ -1,5 +1,7 @@
 # readWords
 
+ node readword.js // to executre the Script
+
   Program to get Find occurrences count of word in document
   The then Program then Find out syn and POS for each words and if the SYn already present into the top 10 Words occurance List 
   the Object for each word document will modeify and  added syn & pos on to the existing JSON Object.
